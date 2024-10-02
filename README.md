@@ -16,7 +16,7 @@ Although I won't be sharing the specific stock screening tool, I can outline the
 ## Monthly Reports
 
 - **Frequency**: Results will be uploaded on a monthly basis, typically within the first few days of the following month.
-- **Metrics**: Each report will include key metrics such as overall return, individual stock performance, and comparison against relevant benchmarks.
+- **Metrics**: Each report will include overall returns.
 
 ## Disclaimer
 
